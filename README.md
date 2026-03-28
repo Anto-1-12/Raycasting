@@ -9,6 +9,6 @@ J'ai codé la version 6 après avoir apris et compris le fonctionnement des mote
 
 ---
 ## Note
-les version raycasting_net.py et raycasting_v2.py sont des version trouver sur internet modifié qui m'ont inspirer pour faire les autres versions
+les version Raycast_net.py et raycasting_V2.py sont des version trouver sur internet modifié qui m'ont inspirer pour faire les autres versions
 
 ---
