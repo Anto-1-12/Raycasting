@@ -1,4 +1,4 @@
-## Raycasting
+# Raycasting
 Ce projet a pour but de comprendre et reproduir le Raycasting, similaire a celui de Wolfenstein 3D ou Doom
 # Pourquoi autant de version?
 
